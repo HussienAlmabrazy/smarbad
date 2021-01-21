@@ -21,3 +21,14 @@ C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Deb
 C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Debug\SmartBed.csproj.GenerateResource.Cache
 C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Debug\SmartBed.controller.resources
 C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Debug\SmartBed.sensor.resources
+E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.exe
+E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.pdb
+E:\hussincode\SmartBed\SmartBed\bin\Debug\SmartBed.exe
+E:\hussincode\SmartBed\SmartBed\bin\Debug\SmartBed.pdb
+E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.csprojResolveAssemblyReference.cache
+E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.controller.resources
+E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.Form1.resources
+E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.sensor.resources
+E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.Motore.resources
+E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.Properties.Resources.resources
+E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.csproj.GenerateResource.Cache

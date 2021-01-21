@@ -17,20 +17,20 @@ namespace SmartBed
         Motore m;
         public controller(string bed_mov)
         {
-            sensor sensor = new sensor();
-            InitializeComponent();
+            //sensor sensor = new sensor();
+            //InitializeComponent();
            
-            sensor.state(State_bed);
-            if (State_bed != "u" )
-            {
-                m = new Motore(bed_mov);
-            }
-            else if (State_bed !="d")
-            {
-                m = new Motore(bed_mov);
-            }
-            else
-                MessageBox.Show("the bed in the pleace you want");
+            //sensor.state(State_bed);
+            //if (State_bed != "u" )
+            //{
+            //    m = new Motore(bed_mov);
+            //}
+            //else if (State_bed !="d")
+            //{
+            //    m = new Motore(bed_mov);
+            //}
+            //else
+            //    MessageBox.Show("the bed in the pleace you want");
             
         }
 
