@@ -13,7 +13,10 @@ namespace SmartBed
     {
         public frm2()
         {
-          
+            
+            
+            
+             
            
             InitializeComponent();
            
