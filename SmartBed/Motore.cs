@@ -9,26 +9,27 @@ namespace SmartBed
     public partial class  Motore:Form1
     {
         public static string Motore_move;
-       
-        public Motore(string mov) {
-            if (mov == "up")
-            {
 
-                Motore_move = "up";
-           
-            
-              
-                
-                }
-            else if (mov == "down")
-            {
-                Motore_move = "down";
-               // frm1.pictureBox1.Location = new System.Drawing.Point(31, 255);
-                //frm1.Show();
-                
-                
-            }
-            }
+        //public Motore(string mov)
+        //{
+        //    if (mov == "up")
+        //    {
+
+        //        Motore_move = "up";
+
+
+
+
+        //    }
+        //    else if (mov == "down")
+        //    {
+        //        Motore_move = "down";
+        //        frm1.pictureBox1.Location = new System.Drawing.Point(31, 255);
+        //        frm1.Show();
+
+
+        //    }
+        //}
 
         public Motore()
         {
