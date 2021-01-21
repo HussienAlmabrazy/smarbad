@@ -1,0 +1,10 @@
+E:\hussincode\SmartBed\SmartBed\bin\Debug\SmartBed.exe.config
+E:\hussincode\SmartBed\SmartBed\bin\Debug\SmartBed.exe
+E:\hussincode\SmartBed\SmartBed\bin\Debug\SmartBed.pdb
+E:\hussincode\SmartBed\SmartBed\obj\Debug\SmartBed.csprojResolveAssemblyReference.cache
+E:\hussincode\SmartBed\SmartBed\obj\Debug\SmartBed.Properties.Resources.resources
+E:\hussincode\SmartBed\SmartBed\obj\Debug\SmartBed.csproj.GenerateResource.Cache
+E:\hussincode\SmartBed\SmartBed\obj\Debug\SmartBed.exe
+E:\hussincode\SmartBed\SmartBed\obj\Debug\SmartBed.pdb
+E:\hussincode\SmartBed\SmartBed\obj\Debug\SmartBed.Form1.resources
+E:\hussincode\SmartBed\SmartBed\obj\Debug\SmartBed.Sensor.resources

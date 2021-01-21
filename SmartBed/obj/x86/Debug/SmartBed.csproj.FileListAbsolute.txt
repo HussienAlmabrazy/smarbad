@@ -1,0 +1,23 @@
+C:\Users\اسعدعبدالرحمن\documents\visual studio 2010\Projects\SmartBed\SmartBed\bin\Debug\SmartBed.exe
+C:\Users\اسعدعبدالرحمن\documents\visual studio 2010\Projects\SmartBed\SmartBed\bin\Debug\SmartBed.pdb
+C:\Users\اسعدعبدالرحمن\documents\visual studio 2010\Projects\SmartBed\SmartBed\obj\x86\Debug\SmartBed.Form1.resources
+C:\Users\اسعدعبدالرحمن\documents\visual studio 2010\Projects\SmartBed\SmartBed\obj\x86\Debug\SmartBed.frm2.resources
+C:\Users\اسعدعبدالرحمن\documents\visual studio 2010\Projects\SmartBed\SmartBed\obj\x86\Debug\SmartBed.Properties.Resources.resources
+C:\Users\اسعدعبدالرحمن\documents\visual studio 2010\Projects\SmartBed\SmartBed\obj\x86\Debug\SmartBed.csproj.GenerateResource.Cache
+C:\Users\اسعدعبدالرحمن\documents\visual studio 2010\Projects\SmartBed\SmartBed\obj\x86\Debug\SmartBed.exe
+C:\Users\اسعدعبدالرحمن\documents\visual studio 2010\Projects\SmartBed\SmartBed\obj\x86\Debug\SmartBed.pdb
+C:\Users\اسعدعبدالرحمن\documents\visual studio 2010\Projects\SmartBed\SmartBed\obj\x86\Debug\SmartBed.csprojResolveAssemblyReference.cache
+C:\Users\اسعدعبدالرحمن\documents\visual studio 2010\Projects\SmartBed\SmartBed\obj\x86\Debug\SmartBed.Motore.resources
+F:\SmartBed\SmartBed\obj\x86\Debug\SmartBed.exe
+F:\SmartBed\SmartBed\obj\x86\Debug\SmartBed.pdb
+C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Debug\SmartBed.exe
+C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Debug\SmartBed.pdb
+C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\bin\Debug\SmartBed.exe
+C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\bin\Debug\SmartBed.pdb
+C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Debug\SmartBed.csprojResolveAssemblyReference.cache
+C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Debug\SmartBed.Form1.resources
+C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Debug\SmartBed.Motore.resources
+C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Debug\SmartBed.Properties.Resources.resources
+C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Debug\SmartBed.csproj.GenerateResource.Cache
+C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Debug\SmartBed.controller.resources
+C:\Users\النهاري للكمبيوتر\Desktop\SmartBed\SmartBed\obj\x86\Debug\SmartBed.sensor.resources
