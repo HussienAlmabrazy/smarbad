@@ -36,3 +36,5 @@ C:\Users\النهاري للكمبيوتر\Desktop\smart\smarbad\SmartBed\obj\x8
 C:\Users\النهاري للكمبيوتر\Desktop\smart\smarbad\SmartBed\obj\x86\Debug\SmartBed.pdb
 C:\Users\Alzubeer\Desktop\smartbed\smarbad\SmartBed\obj\x86\Debug\SmartBed.exe
 C:\Users\Alzubeer\Desktop\smartbed\smarbad\SmartBed\obj\x86\Debug\SmartBed.pdb
+C:\Users\Eng Hilme morad\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.exe
+C:\Users\Eng Hilme morad\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.pdb

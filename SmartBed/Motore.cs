@@ -38,6 +38,18 @@ namespace SmartBed
 
         private void InitializeComponent()
         {
+            //((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            //this.SuspendLayout();
+
+            //Motore
+
+
+            //this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            //this.ClientSize = new System.Drawing.Size(954, 513);
+            //this.Name = "Motore";
+            //this.Load += new System.EventHandler(this.Motore_Load);
+            //((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            //this.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
 
