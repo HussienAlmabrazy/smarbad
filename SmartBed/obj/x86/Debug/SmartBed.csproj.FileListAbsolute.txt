@@ -34,3 +34,5 @@ E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.Properties.Resources.reso
 E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.csproj.GenerateResource.Cache
 C:\Users\النهاري للكمبيوتر\Desktop\smart\smarbad\SmartBed\obj\x86\Debug\SmartBed.exe
 C:\Users\النهاري للكمبيوتر\Desktop\smart\smarbad\SmartBed\obj\x86\Debug\SmartBed.pdb
+C:\Users\Alzubeer\Desktop\smartbed\smarbad\SmartBed\obj\x86\Debug\SmartBed.exe
+C:\Users\Alzubeer\Desktop\smartbed\smarbad\SmartBed\obj\x86\Debug\SmartBed.pdb
