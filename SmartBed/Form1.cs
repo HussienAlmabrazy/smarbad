@@ -25,15 +25,7 @@ namespace SmartBed
         {
 
         }
-        private void button1_Click(object sender, EventArgs e)
-        {
 
-
-            mov_bed = new controller("up");
-
-            if (Motore.Motore_move == "up")
-                this.pictureBox1.Location = new System.Drawing.Point(31, 155)
-        }
         private void button2_Click(object sender, EventArgs e)
         {
             mov_bed = new controller("down");
@@ -44,13 +36,22 @@ namespace SmartBed
         }
         //private void button1_Click(object sender, EventArgs e)
         //{
-            
-            
+
+
         //  mov_bed = new controller("up");
 
         //  if (Motore.Motore_move == "up")
         //      this.pictureBox1.Location = new System.Drawing.Point(31, 155)
-       //}
+        //}
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+
+            mov_bed = new controller("up");
+
+            if (Motore.Motore_move == "up")
+                this.pictureBox1.Location = new System.Drawing.Point(31, 155)
+        }
     }
   
 
