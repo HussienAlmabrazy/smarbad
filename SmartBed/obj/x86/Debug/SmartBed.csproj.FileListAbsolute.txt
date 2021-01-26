@@ -38,3 +38,12 @@ C:\Users\Alzubeer\Desktop\smartbed\smarbad\SmartBed\obj\x86\Debug\SmartBed.exe
 C:\Users\Alzubeer\Desktop\smartbed\smarbad\SmartBed\obj\x86\Debug\SmartBed.pdb
 C:\Users\Eng Hilme morad\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.exe
 C:\Users\Eng Hilme morad\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.pdb
+C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.exe
+C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.pdb
+C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.csprojResolveAssemblyReference.cache
+C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.controller.resources
+C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.Form1.resources
+C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.sensor.resources
+C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.Motore.resources
+C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.Properties.Resources.resources
+C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.csproj.GenerateResource.Cache
