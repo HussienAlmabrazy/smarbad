@@ -32,3 +32,5 @@ E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.sensor.resources
 E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.Motore.resources
 E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.Properties.Resources.resources
 E:\hussincode\SmartBed\SmartBed\obj\x86\Debug\SmartBed.csproj.GenerateResource.Cache
+C:\Users\النهاري للكمبيوتر\Desktop\smart\smarbad\SmartBed\obj\x86\Debug\SmartBed.exe
+C:\Users\النهاري للكمبيوتر\Desktop\smart\smarbad\SmartBed\obj\x86\Debug\SmartBed.pdb

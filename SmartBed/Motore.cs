@@ -10,39 +10,40 @@ namespace SmartBed
     {
         public static string Motore_move;
 
-        //public Motore(string mov)
-        //{
-        //    if (mov == "up")
-        //    {
+        public Motore(string mov)
+        {
+            if (mov == "up")
+            {
 
-        //        Motore_move = "up";
-
-
+                Motore_move = "up";
 
 
-        //    }
-        //    else if (mov == "down")
-        //    {
-        //        Motore_move = "down";
-        //        frm1.pictureBox1.Location = new System.Drawing.Point(31, 255);
-        //        frm1.Show();
 
 
-        //    }
-        //}
+            }
+            else if (mov == "down")
+            {
+                Motore_move = "down";
+                frm1.pictureBox1.Location = new System.Drawing.Point(31, 255);
+                frm1.Show();
+
+
+            }
+        }
 
         public Motore()
         {
-            // TODO: Complete member initialization
+        TODO: Complete member initialization
         }
 
         private void InitializeComponent()
         {
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // Motore
-            // 
+
+            Motore
+
+
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.ClientSize = new System.Drawing.Size(954, 513);
             this.Name = "Motore";
