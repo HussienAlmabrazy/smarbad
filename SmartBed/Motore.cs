@@ -41,7 +41,7 @@ namespace SmartBed
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
 
-            Motore
+            //Motore
 
 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
