@@ -47,3 +47,5 @@ C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.sensor.
 C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.Motore.resources
 C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.Properties.Resources.resources
 C:\Users\ABDULRAHMAAN\Desktop\tt\smarbad\SmartBed\obj\x86\Debug\SmartBed.csproj.GenerateResource.Cache
+C:\Users\النهاري للكمبيوتر\Desktop\مجلد جديد (3)\smarbad\SmartBed\obj\x86\Debug\SmartBed.exe
+C:\Users\النهاري للكمبيوتر\Desktop\مجلد جديد (3)\smarbad\SmartBed\obj\x86\Debug\SmartBed.pdb
